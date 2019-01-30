@@ -11,7 +11,7 @@ namespace SendingMailTestForLQ.Tests
         private static MailPageHelper MailPageHelper = new MailPageHelper();
 
         [Test] 
-        public static void LoginOnMailrurururu()
+        public static void LoginOnMailru()
         {
             string email = "test.account.damir@mail.ru";
             string password = "q123123a";
