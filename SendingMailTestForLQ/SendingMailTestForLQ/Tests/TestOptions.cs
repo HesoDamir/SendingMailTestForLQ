@@ -14,7 +14,7 @@ namespace SendingMailTestForLQ.Tests
             driver.Manage().Window.Maximize();
         }
 
-        //[SetUp]  
+        //[SetUp]
         //public void beforeTest()
         //{
         //    driver.Navigate().GoToUrl(baseUrl);
@@ -24,7 +24,7 @@ namespace SendingMailTestForLQ.Tests
         //[TearDown]
         //public void afterTest()
         //{
-        //    driver.Manage().Cookies.DeleteAllCookies();;
+        //    driver.Manage().Cookies.DeleteAllCookies(); ;
         //}
 
         //[TestFixtureTearDown]
