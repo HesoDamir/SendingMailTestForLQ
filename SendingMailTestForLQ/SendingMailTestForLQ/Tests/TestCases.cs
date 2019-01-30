@@ -1,4 +1,4 @@
-﻿using NUnit.Framework;
+using NUnit.Framework;
 using SendingMailTestForLQ.Extensions;
 using SendingMailTestForLQ.TestHelper;
 
@@ -11,7 +11,7 @@ namespace SendingMailTestForLQ.Tests
         private static MailPageHelper MailPageHelper = new MailPageHelper();
 
         [Test] 
-        public static void LoginOnMailrurururu()
+        public static void LoginOnMailrururu()
         {
             string email = "test.account.damir@mail.ru";
             string password = "q123123a";
